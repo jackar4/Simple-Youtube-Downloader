@@ -5,4 +5,4 @@ really easy to use, you just open the **main.py** and it asks you for a video li
 
 easy as that!
 
-(This is a program just for people learning python and wanting to do this to just see how it's done and all of things like that. 
+(This is a program just for people learning python and wanting to do this to just see how it's done and all of things like that. yt_dlp hasn't got many **simple** projects like this and when learning to do it it could be very though)
